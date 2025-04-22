@@ -1,4 +1,4 @@
-Sure! Here’s a clean and clear `README.md` for your vehicle counting script using OpenCV and the SORT tracking algorithm:
+Sure! Here’s a clean and clear `README.md` for vehicle counting script using OpenCV and the SORT tracking algorithm:
 
 ---
 
